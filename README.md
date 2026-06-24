@@ -60,4 +60,7 @@ git checkout -b <new-branch-name>
 # Merge another branch into your CURRENT active branch
 git merge <branch-to-merge-from>
 
+ HEAD
 This line is from main branch
+This line is from feature-a branch
+ feature-a
